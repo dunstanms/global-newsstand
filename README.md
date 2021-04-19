@@ -1,4 +1,4 @@
-# [News Highlights Application]()
+# [Global News Application]()
 
 ## By Dunstan MMbehero
 
