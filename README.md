@@ -4,7 +4,7 @@
 
 ## Description
 
-News Highlights is a web appliction that displays a list of news sources from around the world. A user is able to click on a news source and view an abreviated version of the particular news article. Clicking on the news article will then redirect you to the news article's web page.
+Global-newsstand is a web appliction that displays a list of news sources from around the world. A user is able to click on a news source and view an abreviated version of the particular news article. Clicking on the news article will then redirect you to the news article's web page.
 
 With the application, a user will be able to:
 
@@ -28,7 +28,7 @@ You need the following to start working on the project on your local computer:
 * A computer running on either Windows, MacOS or Ubuntu operating system installed with the following:
 
 ```
--Python version 3.9
+-Python version 3.8
 -Flask
 -Pip
 -virtualenv
@@ -45,7 +45,7 @@ You need the following to start working on the project on your local computer:
 * Create start.sh file and in it write the following lines:
 ```
  export NEWS_API_KEY='<Your-Api-Key>'
- python3.9 manage.py server
+ python3.8 manage.py server
 ```
 * Run ```chmod +x start.sh``` follwoed by ``` ./start.sh ``` while in the project folder to start the project.
 * Once started, the project can be accessed on your localhost using the address: ``` localhost:5000 ```.
@@ -53,7 +53,7 @@ You need the following to start working on the project on your local computer:
 
 ## Technologies Used
 
-* Python v3.9
+* Python v3.8
 * Boostrap
 * Flask
 
