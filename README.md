@@ -1,5 +1,5 @@
 # [Global News Application]()
-
+(https://global-newsstand.herokuapp.com/)
 ## By Dunstan MMbehero
 
 ## Description
